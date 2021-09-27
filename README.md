@@ -21,7 +21,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/R30bJPy.gif)
+![](https://i.imgur.com/H72eKln.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
