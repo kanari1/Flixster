@@ -14,5 +14,5 @@ The following **required** functionality is complete:
 * [x] User can view the movie posters in each row.
 
 ## Bonus User Stories 
-* [] User can view the app on various device sizes and orientations.
-* [] Run your app on a real device.
+* [ ] User can view the app on various device sizes and orientations.
+* [ ] Run your app on a real device.
