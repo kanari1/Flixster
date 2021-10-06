@@ -17,7 +17,10 @@ Submitted by: **Katrina Jang**
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-![](https://i.imgur.com/bFEPflv.gif)
+![](https://i.imgur.com/mt495GS.gif)
+
+![](https://i.imgur.com/UDOhsyg.gif)
+
 
 ### Notes
 Describe any challenges encountered while building the app.
